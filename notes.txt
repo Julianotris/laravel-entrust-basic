@@ -1,0 +1,7 @@
+--- NOTES ---
+
+Error : -- Entrust migration --
+https://github.com/Zizaco/entrust/issues/510
+
+Seeding
+http://laravelbook.com/laravel-database-seeding/

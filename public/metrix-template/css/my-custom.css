@@ -1,0 +1,47 @@
+/*Custom CSS*/
+
+/*Datatable custom*/
+
+.dataTables_wrapper.no-footer{
+    padding-top: 1em;
+}
+
+.dataTables_filter{
+    position: static;
+}
+
+.dataTables_paginate.paging_simple_numbers{
+    margin-bottom: 1em;
+}
+
+.dataTables_info{
+    padding-left: 1em;
+}
+
+
+
+/*Logo Header*/
+
+#header h1 {
+    background: url("../img/logo-bandung.png") no-repeat scroll 0 0 transparent;
+    background-size: 50px 43px;
+    height: 70px;
+    left: 80px;
+    line-height: 600px;
+    overflow: hidden;
+    position: absolute;
+    top: 6px;
+    width: 191px;
+}
+
+#header h4 {
+    margin-left: 2em;
+    margin-top: 1em;
+    padding:  : 1em;
+    color:white;
+}
+
+.not-active {
+   pointer-events: none;
+   cursor: default;
+}
