@@ -60,11 +60,20 @@ Route::group(['middleware' => ['auth']], function () {
 
     # Egratifikasi
     Route::get('/dashboard/egratifikasi', 'Egratifikasi\LaporanController@getListLaporan');
+        //---- datatable
+        Route::get('/datatable/laporan-egratifikasi', 'Egratifikasi\LaporanController@getAplikasiDatatable');
+        Route::get('/datatable/count-status-laporan', 'Egratifikasi\LaporanController@getStatusDatatable');
+        Route::get('/datatable/count-jenis-laporan', 'Egratifikasi\LaporanController@getJenisDatatable');
 
 
     # route for test and dump after login
     Route::get('dumpin', function(){
         dd(Auth::user()->roles->first()->name);
+    });
+
+    # In Progress Fitur
+    Route::get('in-progress', function(){
+        return view('errors.inprogress');
     });
 
 });

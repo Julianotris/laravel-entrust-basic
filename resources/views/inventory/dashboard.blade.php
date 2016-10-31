@@ -13,7 +13,7 @@
   <!--Action boxes-->
     <div class="quick-actions_homepage">
       <ul class="quick-actions">
-        <li class="bg_lb" id="user-sistem-box"> <a href="javascript:void(0);"> <i class="icon-user"></i> <span class="label label-important">20</span> User System</a> </li>
+        <li class="bg_lb" id="user-sistem-box"> <a href="javascript:void(0);"> <i class="icon-user"></i> <span class="label label-important">{{ $count_user }}</span> User System</a> </li>
         <li class="bg_ly" id="total-aplikasi-box"> <a href="javascript:void(0);"> <i class="icon-inbox"></i><span class="label label-success">{{ $count_apps->count_application }}</span> Aplikasi </a> </li>
         <li class="bg_lo" id="total-jenis-box"> <a href="javascript:void(0);"> <i class="icon-th"></i><span class="label label-warning">{{ $count_apps->count_jenis }}</span> Jenis</a> </li>
         <li class="bg_ls" id="total-status-box"> <a href="javascript:void(0);"> <i class="icon-fullscreen"><span class="label label-info">{{ $count_apps->count_status }}</span></i> Status</a> </li>

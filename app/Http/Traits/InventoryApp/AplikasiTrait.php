@@ -40,15 +40,22 @@ trait AplikasiTrait {
 
     public function getJenis() {
 
-        return Aplikasi::select('id', 'jenis as jenis', DB::raw('count(id) as jumlah_aplikasi'), DB::raw('sum(nilai_pengadaan) as nilai_pengadaan'))->groupBy('jenis')->get();
+        return Aplikasi::select(
+                        'id',
+                        'jenis as jenis',
+                        DB::raw('count(id) as jumlah_aplikasi'),
+                        DB::raw('sum(nilai_pengadaan) as nilai_pengadaan')
+                )->groupBy('jenis')->get();
     }
 
     public function getStatus() {
 
-        return Aplikasi::select('id', 'status as status',
+        return Aplikasi::select(
+                        'id',
+                        'status as status',
                         DB::raw('count(id) as jumlah_aplikasi'),
-                        DB::raw('sum(nilai_pengadaan) as nilai_pengadaan'))
-                ->groupBy('status')->get();
+                        DB::raw('sum(nilai_pengadaan) as nilai_pengadaan')
+            )->groupBy('status')->get();
     }
 
 

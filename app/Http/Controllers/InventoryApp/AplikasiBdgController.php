@@ -31,9 +31,9 @@ class AplikasiBdgController extends Controller
         $count_app = array();
         $count_apps = $this->countAplikasiBdg(true);
         $count_skpd = $this->countSKPD('all');
-        $count_user = 50;
+        $count_user = $this->countUser();
 
-        return view('inventory.dashboard', compact('count_apps', 'count_skpd'));
+        return view('inventory.dashboard', compact('count_apps', 'count_skpd', 'count_user'));
 
     }
 
@@ -66,7 +66,7 @@ class AplikasiBdgController extends Controller
     }
 
     /**
-     * Get json Datatable jenis aplikasi (count group by status)
+     * Get json Datatable status aplikasi (count group by status)
      *
      * @return resource view
      */
