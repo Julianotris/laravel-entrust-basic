@@ -18,4 +18,28 @@ class Laporan extends Model
     protected $fillable = [
         'peristiwa', 'tempat', 'nama_pemberi', 'pekerjaan_pemberi', 'alasan'
     ];
+
+    /**
+    * Relation with Pelapor.
+    */
+    public function pelapor()
+    {
+        return $this->belongsTo('App\Model\Egratifikasi\Pelapor', 'id_pelapor');
+    }
+
+    /**
+    * Relation with objek.
+    */
+    public function objek()
+    {
+        return $this->hasOne('App\Model\Egratifikasi\Objek', 'id_laporan');
+    }
+
+    /**
+    * Relation with status.
+    */
+    public function statusLaporan()
+    {
+        return $this->belongsTo('App\Model\Egratifikasi\StatusLaporan', 'jenis');
+    }
 }
