@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-        <title>All Dashboard</title><meta charset="UTF-8" />
+        <title>Sembako Online</title><meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href={{ URL::asset('metrix-template/css/bootstrap.min.css') }} />
         <link rel="stylesheet" href={{ URL::asset('metrix-template/css/bootstrap-responsive.min.css') }} />
@@ -15,7 +15,7 @@
         <div id="loginbox">
             <form id="loginform" class="form-vertical" role="form" method="POST" action="{{ url('/login') }}">
                 {{ csrf_field() }}
-                 <div class="control-group normal_text"> <h3><img src={{URL::asset('metrix-template/img/logo.png')}}  alt="ALL DASHBOARD" width="30%" height="30%" /> &nbsp;All Dashboard</h3></div>
+                 <div class="control-group normal_text"> <h3><img src={{URL::asset('metrix-template/img/logo.png')}}  alt="Sembako Online" width="15%" height="15%" /> &nbsp;Sembako Online</h3></div>
                 <div class="control-group" {{ $errors->has('email') ? ' error' : '' }}>
                     <div class="controls">
                         <div class="main_input_box">
@@ -43,11 +43,13 @@
                 <div class="control">
                     <div class="controls">
                         <center><input type="checkbox" name="remember"> Remember Me </center>
+                        <br>
+                        <center><button type="submit" class="btn btn-success" /> Login</button></center>
                     </div>
                 </div>
                 <div class="form-actions">
-                    <span class="pull-left"><a href="#" class="flip-link btn btn-info" id="to-recover">Lost password?</a></span>
-                    <span class="pull-right"><button type="submit" class="btn btn-success" /> Login</button></span>
+                    <center><a href="#" class="flip-link btn btn-info" id="to-recover">Lost password?</a></center>
+                    {{-- <span class="pull-right"><button type="submit" class="btn btn-success" /> Login</button></span> --}}
                 </div>
             </form>
             <form id="recoverform" action="#" class="form-vertical">

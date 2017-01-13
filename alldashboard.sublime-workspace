@@ -1,0 +1,1984 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"select-jenis"
+			],
+			[
+				"select",
+				"select-status"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"user",
+				"useraddress"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"ar",
+				"arr_member_id"
+			],
+			[
+				"sms",
+				"sms_schedules"
+			],
+			[
+				"sms_sch",
+				"sms_sch_list"
+			],
+			[
+				"in",
+				"inputs"
+			],
+			[
+				"sms-sc",
+				"sms-sch-id"
+			],
+			[
+				"Res",
+				"Response-json\tResponse-json"
+			],
+			[
+				"email_sc",
+				"email_scheduler"
+			],
+			[
+				"result",
+				"result_auto"
+			],
+			[
+				"grm",
+				"grm_event_id"
+			],
+			[
+				"erro",
+				"error_message"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"ema",
+				"email_sch_ids"
+			],
+			[
+				"mess",
+				"messages_rule"
+			],
+			[
+				"email_s",
+				"email_sch_id"
+			],
+			[
+				"INp",
+				"Input-get\tInput-get"
+			],
+			[
+				"In",
+				"Input-get\tInput-get"
+			],
+			[
+				"IN",
+				"Input-all\tInput-all"
+			],
+			[
+				"emai",
+				"email_schedule"
+			],
+			[
+				"documentat",
+				"hw_Document_BodyTag"
+			],
+			[
+				"form",
+				"form_open\tCI - Form Open"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"Sc",
+				"Schema-table\tSchema-table"
+			],
+			[
+				"ran",
+				"random_field"
+			],
+			[
+				"ra",
+				"random_order"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"prod",
+				"product_id"
+			],
+			[
+				"hea",
+				"header_message_id"
+			],
+			[
+				"show",
+				"showroom"
+			],
+			[
+				"meta",
+				"meta_description"
+			],
+			[
+				"most",
+				"mostwantedProduct"
+			],
+			[
+				"imag",
+				"imagesdefault"
+			],
+			[
+				"con",
+				"conditions"
+			],
+			[
+				"mos",
+				"mostwantedProduct"
+			],
+			[
+				"cond",
+				"conditions"
+			],
+			[
+				"conte",
+				"contentProduct"
+			],
+			[
+				"other",
+				"other_detail"
+			],
+			[
+				"str",
+				"strtolower"
+			],
+			[
+				"text",
+				"textValue"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"array_",
+				"array_combine"
+			],
+			[
+				"at",
+				"attachments"
+			],
+			[
+				"ite",
+				"itemSelectValue"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"fore",
+				"foreach\tforeach …"
+			],
+			[
+				"ProductCa",
+				"ProductCategory"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"data",
+				"dataSlide"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"find",
+				"findValue"
+			],
+			[
+				"coun",
+				"counter_row"
+			],
+			[
+				"count",
+				"counter_row"
+			],
+			[
+				"condition",
+				"condition4"
+			],
+			[
+				"conditio",
+				"condition4"
+			],
+			[
+				"condit",
+				"condition1"
+			],
+			[
+				"sow",
+				"showroom"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"key",
+				"key2"
+			],
+			[
+				"sho",
+				"showroomCategory"
+			],
+			[
+				"get",
+				"getType"
+			],
+			[
+				"condi",
+				"condition_id"
+			],
+			[
+				"ProductCate",
+				"ProductCategoryOption"
+			],
+			[
+				"ProductCat",
+				"ProductCategoryOption"
+			],
+			[
+				"product_id",
+				"product_id_merge"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"wis",
+				"wishlist-all"
+			],
+			[
+				"dat",
+				"dataFrontend"
+			],
+			[
+				"mem",
+				"memberWishlist"
+			],
+			[
+				"w",
+				"wishlist"
+			],
+			[
+				"as",
+				"allShowroom"
+			],
+			[
+				"al",
+				"allShowroom"
+			],
+			[
+				"ur",
+				"url_pict"
+			],
+			[
+				"bran",
+				"brandSort"
+			],
+			[
+				"coll",
+				"collection_id"
+			],
+			[
+				"option",
+				"options"
+			],
+			[
+				"rend",
+				"renderView"
+			],
+			[
+				"tw",
+				"twitter-share"
+			],
+			[
+				"wha",
+				"whatsapp_url"
+			],
+			[
+				"faceboo",
+				"facebook-share"
+			],
+			[
+				"item",
+				"itemError"
+			],
+			[
+				"req",
+				"requestToken"
+			],
+			[
+				"red",
+				"redirectUrl"
+			],
+			[
+				"acces",
+				"accessToken"
+			],
+			[
+				"ac",
+				"accessToken"
+			],
+			[
+				"res",
+				"resultQuery"
+			],
+			[
+				"pagna",
+				"paginator_options"
+			],
+			[
+				"fro",
+				"frontends"
+			],
+			[
+				"cha",
+				"changeConditions"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"back",
+				"background-color: 〔property〕"
+			],
+			[
+				"post",
+				"postId"
+			],
+			[
+				"pass",
+				"passwordHasher"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"fiel",
+				"fieldGoAuto"
+			],
+			[
+				"fie",
+				"fieldGoAuto"
+			],
+			[
+				"birth",
+				"birthDate"
+			],
+			[
+				"new",
+				"newBirthDate"
+			],
+			[
+				"chef",
+				"chefProfileData"
+			],
+			[
+				"che",
+				"chefProfileData"
+			],
+			[
+				"sav",
+				"savingData"
+			],
+			[
+				"Aut",
+				"Auth-user\tAuth-user"
+			],
+			[
+				"A",
+				"Auth-id\tAuth-id"
+			],
+			[
+				"locked",
+				"locked_by"
+			],
+			[
+				"order",
+				"order_detail"
+			],
+			[
+				"colle",
+				"collection"
+			],
+			[
+				"massage_order",
+				"massage_order_id"
+			],
+			[
+				"ser",
+				"service_provider"
+			],
+			[
+				"service_",
+				"service_provider"
+			],
+			[
+				"foreac",
+				"foreach\tforeach …"
+			],
+			[
+				"glam_order",
+				"glam_order_id"
+			],
+			[
+				"menu",
+				"menuID"
+			],
+			[
+				"userI",
+				"userID"
+			],
+			[
+				"lastmod",
+				"lastmodifiedby"
+			],
+			[
+				"comm",
+				"command"
+			],
+			[
+				"Inp",
+				"Input-all\tInput-all"
+			],
+			[
+				"tod",
+				"todayEvents"
+			],
+			[
+				"date",
+				"date_year"
+			],
+			[
+				"Session",
+				"Session-all\tSession-all"
+			],
+			[
+				"sms_c",
+				"sms_counter_failed"
+			],
+			[
+				"sele",
+				"select_name"
+			],
+			[
+				"men",
+				"menuData"
+			],
+			[
+				"chef-form-d",
+				"chef-form-edit"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 645,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 3155,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "php",
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bla",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"ang",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"angular",
+				"AngularJS: Toggle - Disable Built-in Directive Completions"
+			],
+			[
+				"angu",
+				"AngularJS: Toggle - Disable Built-in Directive Completions"
+			],
+			[
+				"jaa",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"vo",
+				"Set Syntax: HTML (Volt)"
+			],
+			[
+				"vol",
+				"Set Syntax: HTML (Volt)"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"volt",
+				"Set Syntax: HTML (Volt)"
+			],
+			[
+				"z",
+				"Set Syntax: Zephir"
+			],
+			[
+				"ze",
+				"Set Syntax: Zephir"
+			],
+			[
+				"lara",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"l",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"aja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"a",
+				"Project: Add Folder"
+			],
+			[
+				"A",
+				"Project: Add Folder"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"jq",
+				"Snippet: jQuery Plugin Boilerplate Minified"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lar",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"",
+				"File: New View into File"
+			],
+			[
+				"larvel",
+				"Set Syntax: PHP - Laravel Blade"
+			]
+		],
+		"width": 857.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by);"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/juliano/MyProject/Laravel/alldashboard",
+		"/home/juliano/MyProject/Laravel/alldashboard/resources",
+		"/home/juliano/MyProject/Laravel/alldashboard/resources/views"
+	],
+	"file_history":
+	[
+		"/home/juliano/MyProject/Laravel/alldashboard/app/Http/Controllers/Egratifikasi/LaporanController.php",
+		"/home/juliano/MyProject/Laravel/basic/public/metrix-template/css/my-custom.css",
+		"/home/juliano/MyProject/Laravel/basic/app/Model/InventoryApp/AplikasiBdg.php",
+		"/home/juliano/MyProject/Laravel/basic/app/Http/Controllers/Egratfikasi/LaporanController.php",
+		"/home/juliano/MyProject/Laravel/basic/app/Model/InventoryApp/Skpd.php",
+		"/home/juliano/MyProject/Laravel/basic/resources/views/layouts/sidebar-menu.blade.php",
+		"/home/juliano/MyProject/Laravel/basic/resources/views/example/main-template-dashboard.blade.php",
+		"/home/juliano/MyProject/Laravel/basic/config/database.php",
+		"/home/juliano/MyProject/Laravel/basic/.env",
+		"/home/juliano/Downloads/Admin template/matrix-admin-package/matrix-admin-package/HTML/form-common.html",
+		"/home/juliano/MyProject/Laravel/basic/resources/views/layouts/app.blade.php",
+		"/home/juliano/MyProject/Laravel/basic/app/User.php",
+		"/home/juliano/MyProject/Laravel/basic/resources/views/user-management/user.blade.php",
+		"/home/juliano/MyProject/Laravel/basic/resources/views/layouts/header-menu.blade.php",
+		"/home/juliano/MyProject/Laravel/basic/resources/views/errors/404.blade.php",
+		"/home/juliano/MyProject/Laravel/basic/resources/views/inventory/dashboard.blade.php",
+		"/home/juliano/MyProject/Laravel/basic/resources/views/errors/500.blade.php",
+		"/home/juliano/MyProject/Laravel/basic/resources/views/errors/403.blade.php",
+		"/home/juliano/MyProject/Laravel/basic/app/Http/Controllers/InventoryApp/AplikasiBdgController.php",
+		"/var/www/html/store/src/app/Http/Controllers/OrderController.php",
+		"/var/www/html/store/src/app/Http/routes.php",
+		"/var/www/html/store/src/app/Providers/RouteServiceProvider.php",
+		"/var/www/html/store/src/app/Order.php",
+		"/var/www/html/store/src/app/Http/Requests/RegistrationRequest.php",
+		"/var/www/html/store/src/resources/views/auth/register.blade.php",
+		"/var/www/html/store/src/resources/views/cart/checkout.blade.php",
+		"/home/juliano/MyProject/Laravel/basic/database/seeds/InitialUserSeeder.php",
+		"/home/juliano/MyProject/Laravel/basic/notes.txt",
+		"/home/juliano/Documents/Data Json/Data json id 27.json",
+		"/home/juliano/Documents/Data Json/Data json id 28.json",
+		"/home/juliano/Documents/Data Json/Data json id 29.json",
+		"/home/juliano/Documents/Data Json/Data json id 30.json",
+		"/home/juliano/Documents/Data Json/Data json id 31.json",
+		"/home/juliano/Documents/Data Json/Data json id 32.json",
+		"/home/juliano/Documents/Data Json/Data json id 33.json",
+		"/home/juliano/Documents/Data Json/Data json id 34.json",
+		"/home/juliano/Documents/Data Json/Data json id 35.json",
+		"/home/juliano/Documents/Data Json/Data json id 36.json",
+		"/home/juliano/Documents/Data Json/Data json id 37.json",
+		"/home/juliano/Documents/Data Json/Data json id 38.json",
+		"/home/juliano/Documents/Data Json/Data json id 39.json",
+		"/home/juliano/Documents/Data Json/Data json id 40.json",
+		"/home/juliano/Documents/Data Json/Data json id 41.json",
+		"/home/juliano/Documents/Data Json/Data json id 42.json",
+		"/home/juliano/Documents/Data Json/last url.txt",
+		"/home/juliano/Documents/Data Json/Data json id 26.json",
+		"/home/juliano/Documents/Data Json/Data json id 24.json",
+		"/home/juliano/Documents/Data Json/Data json id 21.json",
+		"/home/juliano/Documents/Data Json/Data json id 20.json",
+		"/home/juliano/Documents/Data Json/Data json id 19.json",
+		"/home/juliano/Documents/Data Json/Data json id 18.json",
+		"/home/juliano/Documents/Data Json/Data json id 17.json",
+		"/home/juliano/Documents/Data Json/Data json id 16.json",
+		"/home/juliano/Documents/Data Json/Data json id 15.json",
+		"/home/juliano/Documents/Data Json/Data json id 14.json",
+		"/home/juliano/Documents/Data Json/Data json id 13.json",
+		"/home/juliano/Documents/Data Json/Data json id 12.json",
+		"/home/juliano/Documents/Data Json/Data json id 11.json",
+		"/home/juliano/Documents/Data Json/Data json id 10.json",
+		"/home/juliano/Documents/Data Json/Data json id 9.json",
+		"/home/juliano/Documents/Data Json/Data json id 8.json",
+		"/home/juliano/Documents/Data Json/url.txt",
+		"/home/juliano/Documents/Data Json/Data json id 7.json",
+		"/home/juliano/Documents/Data Json/Data json id 25.json",
+		"/home/juliano/Documents/Data Json/Data json id 22.json",
+		"/home/juliano/Documents/Data Json/Data json id 23.json",
+		"/home/juliano/Documents/Data Json/datadiskominfo.json",
+		"/home/juliano/Documents/Data Json/Data json id 6.json",
+		"/home/juliano/Documents/Data Json/Data json id 3.json",
+		"/home/juliano/Documents/Data Json/Data json id 5.json",
+		"/home/juliano/Documents/Data Json/Data json id 4.json",
+		"/home/juliano/MyProject/Laravel/basic/app/Http/Traits/InventoryApp/AplikasiTrait.php",
+		"/home/juliano/MyProject/Laravel/basic/app/Http/Traits/InventoryApp/SkpdTrait.php",
+		"/home/juliano/Downloads/Admin template/matrix-admin-package/matrix-admin-package/HTML/index.html",
+		"/home/juliano/Downloads/Admin template/matrix-admin-package/matrix-admin-package/HTML/widgets.html",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/layouts/navigation.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/controllers/TeamsController.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/public/assets/js/extra/pdf-viewer/jquery.media.js",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/public/assets/js/extra/jquery.media.js",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/models/User.php",
+		"/home/juliano/WGS/Files/CRM-GRAMEDIA/Fitur Otomatis SMS dan Email/Task Lists.txt",
+		"/home/juliano/WGS/Files/CRM-GRAMEDIA/GRAMEDIA/ACCOUNT DAN ACCESS PENTING.txt",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/controllers/UsersController.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/layouts/banner_navigation.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/database/seeds/UsersTableSeeder.php",
+		"/home/juliano/WGS/Files/CRM-GRAMEDIA/userproduction.txt",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/config/crm_custom_config.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/config/app.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/models/SmsSchedulesResult.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/controllers/ReportsController.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/routes.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/blasts/modal/sms_report_v2.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/blasts/modal/sms_report.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/reports/table/_sms_blast_result.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/controllers/SmsjatisController.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/controllers/SmsSchedulesResultsController.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/models/SmsSchedule.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/blasts/scheduler/sms.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/controllers/MembersController.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/controllers/MailsController.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/controllers/BlastsController.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/models/EmailSchedule.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/events/create.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/events/show.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/blasts/scheduler/email.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/blasts/modal/invalid_email.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/controllers/DashboardController.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/start/artisan.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/commands/testCron.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/reports/table/_email_blast_result.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/reports/table/_invalid_email.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/blasts/modal/email_report.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/blasts/index.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/blasts/modal/status_message_email.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/models/GrmEvent.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/controllers/EventsController.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/public/assets/js/blast.js",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/models/Member.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/models/Transaction.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/controllers/BaseController.php",
+		"/home/juliano/WGS/Files/CRM-GRAMEDIA/Update fitur email and sms schedule/email schedule/Scenario.txt",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/config/database.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/vendor/mailchimp/mailchimp/src/Mailchimp/Reports.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/layouts/notifications.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/blasts/modal/status_message_sms.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/blasts/modal/confirm_mandrill.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/events/description_modal.blade.php",
+		"/home/juliano/WGS/Local_repo/crm-gramedia/composer.json"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app/views",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app/controllers",
+			"/home/juliano/WGS/Local_repo/crm-gramedia",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/public/assets/js",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/public",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app/views",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/emails",
+			"/home/juliano/Dev/Codeigniter/CodeIgniter306/application/config",
+			"/home/juliano/Dev/Codeigniter/CodeIgniter306",
+			"/home/juliano/Dev/Codeigniter/CodeIgniter306/application",
+			"/home/juliano/WGS/Local_repo/kemana/kshipper-ci-staging/website/application",
+			"/home/juliano/WGS/Local_repo/kemana/kshipper-ci-staging",
+			"/home/juliano/WGS/Local_repo/kemana/kshipper-ci-staging/website/application/language/indonesian",
+			"/home/juliano/Dev/Codeigniter/CodeIgniter306",
+			"/home/juliano/Dev/Codeigniter/CodeIgniter306/application/models",
+			"/home/juliano/Dev/Codeigniter/CodeIgniter306/application/config",
+			"/home/juliano/WGS/Local_repo/kemana/kshipper-ci-staging2",
+			"/home/juliano/WGS/Local_repo/kemana/kshipper-ci-staging2/website/application/config",
+			"/home/juliano/WGS/Local_repo/kemana/kshipper-ci-staging2",
+			"/home/juliano/WGS/Local_repo/kemana/kshipper-ci-staging2/website/application/modules",
+			"/home/juliano/WGS/Local_repo/kemana/kshipper-ci-staging2/website/application/modules/welcome/views",
+			"/home/juliano/WGS/Files/KShipperV2/SourceCode/website",
+			"/home/juliano/WGS/Files/KShipperV2/SourceCode",
+			"/home/juliano/WGS/Files/KShipperV2/SourceCode/website",
+			"/home/juliano/WGS/Files/KShipperV2/SourceCode",
+			"/home/juliano/WGS/Files/KShipperV2/SourceCode/website/application/modules",
+			"/home/juliano/WGS/Files/KShipperV2/SourceCode/website/application/config",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot/upload/product",
+			"/home/juliano/WGS/Local_repo/maxuri",
+			"/home/juliano/WGS/Local_repo/maxuri/app",
+			"/home/juliano/WGS/Local_repo/maxuri/app/Controller",
+			"/home/juliano/WGS/Local_repo/maxuri",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot",
+			"/home/juliano/WGS/Local_repo/maxuri/app/View",
+			"/home/juliano/WGS/Local_repo/maxuri/app/View/Layouts",
+			"/home/juliano/WGS/Local_repo/maxuri/app/Config",
+			"/home/juliano/WGS/Local_repo/maxuri/app/Config/Migration",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot",
+			"/home/juliano/WGS/Local_repo/maxuri/app",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot",
+			"/home/juliano/WGS/Local_repo/maxuri",
+			"/home/juliano/WGS/Local_repo/maxuri/app/Controller",
+			"/home/juliano/WGS/Local_repo/maxuri",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot/js",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot/css",
+			"/home/juliano/WGS/Local_repo/maxuri/app",
+			"/home/juliano/WGS/Local_repo/maxuri",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot/js",
+			"/home/juliano/WGS/Local_repo/maxuri/app/View",
+			"/home/juliano/WGS/Local_repo/maxuri/app",
+			"/home/juliano/WGS/Local_repo/maxuri",
+			"/home/juliano/WGS/Local_repo/maxuri/app",
+			"/home/juliano/WGS/Local_repo/maxuri",
+			"/home/juliano/WGS/Local_repo/maxuri/app",
+			"/home/juliano/WGS/Local_repo/maxuri",
+			"/home/juliano/WGS/Local_repo/maxuri/app/View/Layouts",
+			"/home/juliano/WGS/Local_repo/maxuri",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot/js",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot/css",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot/js",
+			"/home/juliano/WGS/Local_repo/maxuri/app/View/Layouts/js",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot/js",
+			"/home/juliano/WGS/Local_repo/maxuri/app/Controller",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot/js/frontend",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot/css",
+			"/home/juliano/WGS/Local_repo/maxuri/app/View/Elements",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot/css",
+			"/home/juliano/WGS/Local_repo/maxuri",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot/js",
+			"/home/juliano/WGS/Local_repo/maxuri/app/Plugin/LinkedIn",
+			"/home/juliano/WGS/Local_repo/maxuri/app/Plugin/LinkedIn/Lib",
+			"/home/juliano/WGS/Local_repo/maxuri/app/Config/Migration",
+			"/home/juliano/WGS/Local_repo/maxuri",
+			"/home/juliano/WGS/Files/MAXURY ET/Design/maxuri_update_22jan",
+			"/home/juliano/WGS/Files/MAXURY ET/Design/maxuri_update_22jan/js",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot/js",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot",
+			"/home/juliano/WGS/Local_repo/maxuri",
+			"/home/juliano/WGS/Local_repo/maxuri/app/Controller",
+			"/home/juliano/WGS/Local_repo/maxuri/app/Config/Migration",
+			"/home/juliano/WGS/Local_repo/maxuri",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot",
+			"/home/juliano/WGS/Local_repo/maxuri/app/View",
+			"/home/juliano/WGS/Local_repo/maxuri/app/Config/Migration",
+			"/home/juliano/WGS/Local_repo/maxuri/app/webroot",
+			"/home/juliano/WGS/Local_repo/maxuri/app/View",
+			"/var/www/cakephp",
+			"/home/juliano/WGS/Local_repo/sp-apps-cms",
+			"/home/juliano/WGS/Local_repo/dinnerlab",
+			"/home/juliano/WGS/Local_repo/dinnerlab/superadmin",
+			"/home/juliano/WGS/Local_repo/dinnerlab",
+			"/home/juliano/WGS/Local_repo/dinnerlab/superadmin",
+			"/home/juliano/WGS/Local_repo/lara51",
+			"/home/juliano/WGS/Local_repo/dinnerlab/profile",
+			"/home/juliano/WGS/Local_repo/crm-gramedia",
+			"/home/juliano/WGS/Local_repo/dinnerlab",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app/controllers",
+			"/home/juliano/WGS/Local_repo/dinnerlab",
+			"/home/juliano/WGS/Local_repo/dinnerlab/_/php",
+			"/home/juliano/WGS/Local_repo/dinnerlab",
+			"/home/juliano/WGS/Local_repo/dinnerlab/signup",
+			"/home/juliano/WGS/Local_repo/dinnerlab",
+			"/home/juliano/WGS/Local_repo/dinnerlab/superadmin/events/custom-event-links-creator",
+			"/home/juliano/WGS/Local_repo/dinnerlab",
+			"/home/juliano/WGS/Local_repo/dinnerlab/_",
+			"/home/juliano/WGS/Local_repo/dinnerlab/_/php",
+			"/home/juliano/WGS/Local_repo/crm-gramedia",
+			"/home/juliano/MyProject/Laravel/Laravel-5.1/laravel",
+			"/home/juliano/MyProject/Laravel/Laravel-5.1/laravel/app",
+			"/home/juliano/MyProject/Laravel/Laravel-5.1/laravel",
+			"/home/juliano/WGS/Local_repo/zend/MyVoucherPlus/application",
+			"/home/juliano/WGS/Local_repo/zend/MyVoucherPlus",
+			"/var/www/html/invo",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app/controllers",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app/models",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app/controllers",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app/database/migrations",
+			"/home/juliano/WGS/Local_repo/crm-gramedia",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app/models",
+			"/home/juliano/WGS/Local_repo/crm-gramedia",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app/database/migrations",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app/views",
+			"/home/juliano/WGS/Local_repo/crm-gramedia",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app/views",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/events",
+			"/home/juliano/WGS/Local_repo/crm-gramedia/app/views/reports"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"void",
+			"(Auth::user()->usersAddress())",
+			"col-md-4",
+			"col-md-10",
+			"col-md-10 col-md-offset-1",
+			"checko",
+			"gun",
+			"teams",
+			"team",
+			"ssh",
+			"reports/ema",
+			"reports/email",
+			"email/blas",
+			"test",
+			"member-error",
+			"error",
+			"in",
+			"settings",
+			"ssh",
+			"screen",
+			"try",
+			"blasts",
+			"resend-act",
+			"sms-blast-toggle",
+			"export",
+			"email_schedules_result",
+			"reports/email/blast_result",
+			"sms_schedule_id",
+			"reports/sms/",
+			"/reports/sms/blast_result",
+			"test",
+			"disabled",
+			"loading-filter",
+			"<div class=\"col-sm-1 loading-filter pull-right\"><img src=\"/assets/scale/images/loading.gif\"></div>",
+			"loading-filter",
+			"ajax",
+			"render",
+			"create",
+			"except",
+			"vpn",
+			"blasts",
+			"success",
+			"start_time",
+			"select_template",
+			"internet_connection",
+			"btn-send-email",
+			"internet_connection",
+			"send-by-mandrill",
+			"confirm-send-email",
+			"config",
+			"template",
+			"email",
+			"token",
+			"cookie",
+			"language",
+			"public",
+			"system",
+			"core",
+			"lex",
+			"form_validation",
+			"config",
+			"debug",
+			"dump",
+			"custom_lang",
+			"login_re",
+			"xss_c",
+			"pass",
+			"email",
+			"capt",
+			"sess",
+			"data",
+			"Session_database_driver",
+			"session",
+			"db_table_prefix",
+			"capt",
+			"index",
+			"weekly_total_awb_active",
+			"class=\"dashboard-stat blue-madison\"",
+			"config",
+			"name=\"form_login\"",
+			"auth_email_required",
+			"signIn",
+			"wp",
+			"base_frontend",
+			"menu-ship_menu",
+			"kshipper.com.kemanastaging.com",
+			"kshipper-wp.com.kemanastaging.com/",
+			"http://kshipper-wp.com.kemanastaging.com/",
+			"base_frontend",
+			"production",
+			"product",
+			"image",
+			"min",
+			"quality",
+			"product",
+			"btn-showroo",
+			"custom",
+			"call",
+			"btn-showroom",
+			"hint",
+			"order_limit_time",
+			"Order_field",
+			"Order_limit_time",
+			"CREATED_ORDER_TIME",
+			"Config.productOrder",
+			"face",
+			"session",
+			"random",
+			"social-feed-container",
+			"lead",
+			"showroom",
+			"product",
+			"leadproduct",
+			"call",
+			"lead",
+			"save",
+			"call",
+			"lead",
+			"call",
+			"404",
+			"except",
+			"generate",
+			"lead",
+			"staging",
+			"wishlist",
+			"wish",
+			"whis",
+			"desc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"(Auth::user()->usersAddress)",
+			"col-md-5",
+			"col-md-6",
+			"sms_schedules_result",
+			"orderLimitTime",
+			"orderField",
+			"order_limit_time",
+			"Product.order_limit_time",
+			"Product.Order_limit_time",
+			"Product.Order_field",
+			"<?php echo (!is_null($itemField['ProductCategoryField']['hint']) ? $itemField['ProductCategoryField']['hint'] : 'Empty') ?>",
+			"'Test'",
+			"$itemField['ProductCategoryField']['hint'];",
+			"Url",
+			"required",
+			"$eventID",
+			"events_reviews",
+			"Song",
+			"album_id",
+			"Song",
+			"Sng",
+			"Song",
+			"Juliano",
+			"/assets/images",
+			"assets/images",
+			"sort_by",
+			"transaction_enddate",
+			"transaction_startdate",
+			"$event->repetitions->",
+			"event",
+			"text-center",
+			"0' => 'CHOOSE",
+			"col-sm-9\" style",
+			"col-sm-8\" style",
+			"col-sm-6",
+			"col-sm-3",
+			"col-sm-4",
+			"col-sm-3",
+			"refreshSelectSmsLocation",
+			"['.$index.']",
+			"[$index]",
+			"sms_location[0]",
+			"sms_location[0][vendor_name]",
+			"<div class=\"\">",
+			"col-sm-1",
+			"col-sm-2",
+			"form",
+			"col-sm-3",
+			"col-sm-2",
+			"Person In Charges",
+			"$transaction",
+			"store_code",
+			".loading-filter",
+			"#value_filter",
+			"update event is canceled",
+			"create event is canceled",
+			"is not saved",
+			"\"Error Message : <br>\".$e->getMessage().\"",
+			"$error_message \t\t= $e->getMessage().",
+			"('+take+',",
+			"('+take+'",
+			"take",
+			"5",
+			"changePage'+table+'",
+			"changePage''+table+''",
+			"changePage\"\"+table+\"\"",
+			"take",
+			"5",
+			"",
+			"5",
+			"do_ajax_pic",
+			"do_ajax_team",
+			"Team",
+			"Pic",
+			"changePageCreator",
+			"",
+			"//->groupBy('members.id');",
+			"//->leftJoin('transactions','transactions.member_id','=', 'members.id')",
+			"",
+			"}}",
+			"{{$data->",
+			"",
+			"{{$data->",
+			"",
+			"}}</td>",
+			"{{$data->",
+			"",
+			"{{$data->",
+			"}}",
+			"{{$data->",
+			"",
+			"'confirmation'.{{$data->id}}",
+			"}}</td>",
+			"{{$data->",
+			"",
+			"\"",
+			"",
+			"}}",
+			"$data->",
+			"min='0'",
+			"max='100000000'",
+			"{{pj_name}}",
+			"",
+			">",
+			"",
+			">",
+			"",
+			"{{$type_of_tag}}",
+			"{{$select_filter}}",
+			"",
+			">",
+			"",
+			"$tag['",
+			"$tag[\"",
+			"$tag['",
+			"$tag[",
+			"$tag[\"",
+			"$tag['",
+			"\"name\"",
+			"\"is_like\"",
+			"\"value\"",
+			"\"type\"",
+			"$tags[\"",
+			"$tags['",
+			"width:30px",
+			"ALL REGION",
+			"style='width:60px'",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								894,
+								894
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 429.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "",
+	"project": "alldashboard.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lapora",
+				"app/Http/Controllers/Egratifikasi/LaporanController.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"data",
+				"config/database.php"
+			],
+			[
+				"my",
+				"public/metrix-template/css/my-custom.css"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"routes",
+				"app/Http/routes.php"
+			],
+			[
+				"cart/chec",
+				"src/resources/views/cart/checkout.blade.php"
+			],
+			[
+				"auth/reg",
+				"src/resources/views/auth/register.blade.php"
+			],
+			[
+				"config/app",
+				"config/app.php"
+			],
+			[
+				"dashb",
+				"resources/views/inventory/dashboard.blade.php"
+			],
+			[
+				"rout",
+				"app/routes.php"
+			],
+			[
+				"smssc",
+				"app/controllers/SmsSchedulesResultsController.php"
+			],
+			[
+				"smsjat",
+				"app/controllers/SmsjatisController.php"
+			],
+			[
+				"member",
+				"app/controllers/MembersController.php"
+			],
+			[
+				"blas",
+				"app/controllers/BlastsController.php"
+			],
+			[
+				"events/create",
+				"app/views/events/create.blade.php"
+			],
+			[
+				"events/s",
+				"app/views/events/show.blade.php"
+			],
+			[
+				"inval",
+				"app/views/blasts/modal/invalid_email.blade.php"
+			],
+			[
+				"dash",
+				"app/controllers/DashboardController.php"
+			],
+			[
+				"members",
+				"app/controllers/MembersController.php"
+			],
+			[
+				"grme",
+				"app/models/GrmEvent.php"
+			],
+			[
+				"event",
+				"app/controllers/EventsController.php"
+			],
+			[
+				"blast",
+				"app/controllers/BlastsController.php"
+			],
+			[
+				"events/sh",
+				"app/views/events/show.blade.php"
+			],
+			[
+				"blasts.i",
+				"app/views/blasts/index.blade.php"
+			],
+			[
+				"report",
+				"vendor/mailchimp/mailchimp/src/Mailchimp/Reports.php"
+			],
+			[
+				"base",
+				"app/controllers/BaseController.php"
+			],
+			[
+				"teams",
+				"app/controllers/TeamsController.php"
+			],
+			[
+				"email",
+				"app/views/blasts/scheduler/email.blade.php"
+			],
+			[
+				"app",
+				"app/config/app.php"
+			],
+			[
+				"email.bla",
+				"app/views/blasts/scheduler/email.blade.php"
+			],
+			[
+				"sms.bla",
+				"app/views/blasts/scheduler/sms.blade.php"
+			],
+			[
+				"mail",
+				"app/controllers/MailsController.php"
+			],
+			[
+				"smss",
+				"app/models/SmsSchedule.php"
+			],
+			[
+				"emails",
+				"app/models/EmailSchedule.php"
+			],
+			[
+				"layout/not",
+				"app/views/layouts/notifications.blade.php"
+			],
+			[
+				"layouts/n",
+				"app/views/layouts/navigation.blade.php"
+			],
+			[
+				"blasts/in",
+				"app/views/blasts/index.blade.php"
+			],
+			[
+				"sms.b",
+				"app/views/blasts/scheduler/sms.blade.php"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				"blasts/ind",
+				"app/views/blasts/index.blade.php"
+			],
+			[
+				"tag",
+				"app/controllers/TagsController.php"
+			],
+			[
+				"sms",
+				"app/models/SmsSchedulesResult.php"
+			],
+			[
+				"smspa",
+				"app/models/SmsParameter.php"
+			],
+			[
+				"smssche",
+				"app/models/SmsSchedulesResult.php"
+			],
+			[
+				"events/cre",
+				"app/views/events/create.blade.php"
+			],
+			[
+				"tags/ind",
+				"app/views/tags/index.blade.php"
+			],
+			[
+				"tags/in",
+				"app/views/tags/index.blade.php"
+			],
+			[
+				"not",
+				"app/controllers/NotificationsController.php"
+			],
+			[
+				"notifications/ind",
+				"app/views/notifications/index.blade.php"
+			],
+			[
+				"notifi",
+				"app/controllers/NotificationsController.php"
+			],
+			[
+				"mails",
+				"app/controllers/MailsController.php"
+			],
+			[
+				"mailsc",
+				"app/controllers/MailsController.php"
+			],
+			[
+				"tagscon",
+				"app/controllers/TagsController.php"
+			],
+			[
+				"resched",
+				"app/views/blasts/modal/reschedule_email.blade.php"
+			],
+			[
+				"blast.js",
+				"public/assets/js/blast.js"
+			],
+			[
+				"emai",
+				"app/models/EmailScheduleParameter.php"
+			],
+			[
+				"tags",
+				"app/controllers/TagsController.php"
+			],
+			[
+				"template_",
+				"app/views/blasts/modal/template_form_email.blade.php"
+			],
+			[
+				"blast.",
+				"public/assets/js/blast.js"
+			],
+			[
+				"select_tem",
+				"app/views/mails/mandrill/field/select_template.blade.php"
+			],
+			[
+				"_even",
+				"app/views/events/_event_table.blade.php"
+			],
+			[
+				"_event",
+				"app/views/events/_event_table.blade.php"
+			],
+			[
+				"blasts/sch",
+				"app/views/blasts/scheduler/email.blade.php"
+			],
+			[
+				"blasts/",
+				"app/views/blasts/index.blade.php"
+			],
+			[
+				"smspr",
+				"app/models/SmsParameter.php"
+			],
+			[
+				"smsp",
+				"app/controllers/SmsParametersController.php"
+			],
+			[
+				"config",
+				"application/config/config.php"
+			],
+			[
+				"login_form",
+				"application/themes/metronic/views/modules/auth/auth/login_form.php"
+			],
+			[
+				"code",
+				"system/core/CodeIgniter.php"
+			],
+			[
+				"tem",
+				"website/application/libraries/Template.php"
+			],
+			[
+				"confi",
+				"website/application/config/config.php"
+			],
+			[
+				"session_database_driver",
+				"website/vendor/codeigniter/framework/system/libraries/Session/drivers/Session_database_driver.php"
+			],
+			[
+				"session_data",
+				"website/vendor/codeigniter/framework/system/libraries/Session/drivers/Session_database_driver.php"
+			],
+			[
+				"tank_a",
+				"website/application/libraries/Tank_auth.php"
+			],
+			[
+				"tank",
+				"website/application/config/tank_auth.php"
+			],
+			[
+				"login",
+				"website/application/views/auth/login_form.php"
+			],
+			[
+				"tank_auth",
+				"website/application/libraries/Tank_auth.php"
+			],
+			[
+				"dashboad",
+				"website/application/modules/welcome/views/dashboard.php"
+			],
+			[
+				"controller/wel",
+				"website/application/controllers/Welcome.php"
+			],
+			[
+				"partials/member/si",
+				"application/themes/metronic/views/partials/member/sidebar.php"
+			],
+			[
+				"admin_c",
+				"application/modules/welcome/controllers/Admin_welcome.php-dist"
+			],
+			[
+				"side",
+				"application/modules/sidebar/controllers/Sidebar.php"
+			],
+			[
+				"auth",
+				"application/modules/auth/controllers/Auth.php"
+			],
+			[
+				"register",
+				"website/application/views/auth/register_form.php"
+			],
+			[
+				"cata",
+				"catatan.txt"
+			],
+			[
+				"social",
+				"app/Http/Controllers/SocialAuthController.php"
+			],
+			[
+				"gene",
+				"app/Controller/GeneratorController.php"
+			],
+			[
+				"image",
+				"app/Controller/ImagesController.php"
+			],
+			[
+				"produ",
+				"app/Model/Product.php"
+			],
+			[
+				"products/admin_in",
+				"app/View/Products/admin_index.ctp"
+			],
+			[
+				"prod",
+				"app/Controller/ProductsController.php"
+			],
+			[
+				"deta",
+				"app/Controller/DetailsController.php"
+			],
+			[
+				"gener",
+				"app/Controller/GeneratorController.php"
+			],
+			[
+				"frontends/ind",
+				"app/View/Frontends/index.ctp"
+			],
+			[
+				"task",
+				"app/Task.php"
+			],
+			[
+				"authser",
+				"app/Providers/AuthServiceProvider.php"
+			],
+			[
+				"taskpo",
+				"app/Policies/TaskPolicy.php"
+			],
+			[
+				"tas",
+				"app/Task.php"
+			],
+			[
+				"taskre",
+				"app/Repositories/TaskRepository.php"
+			],
+			[
+				"validatere",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Validation/ValidatesRequests.php"
+			],
+			[
+				"",
+				".env"
+			],
+			[
+				"cust",
+				"app/webroot/css/frontend/custom-style.min.css"
+			],
+			[
+				"custo",
+				"app/webroot/css/frontend/custom-style.css"
+			],
+			[
+				"profile",
+				"app/View/Showroom/profile.ctp"
+			],
+			[
+				"custom",
+				"app/webroot/css/frontend/custom-style.min.css"
+			],
+			[
+				"custom-st",
+				"app/webroot/css/frontend/custom-style.css"
+			],
+			[
+				"frontend.ctp",
+				"app/View/Layouts/frontend.ctp"
+			],
+			[
+				"style",
+				"app/webroot/css/frontend/style.css"
+			],
+			[
+				"showroom",
+				"app/Controller/ShowroomController.php"
+			],
+			[
+				"showroom/pro",
+				"app/View/Showroom/profile.ctp"
+			],
+			[
+				"products/admin_add",
+				"app/View/Products/admin_add.ctp"
+			],
+			[
+				"products/adm",
+				"app/View/Products/admin_add.ctp"
+			],
+			[
+				"products/admin",
+				"app/View/Products/admin_add.ctp"
+			],
+			[
+				"seller_ed",
+				"app/View/Products/seller_edit.ctp"
+			],
+			[
+				"products/sel",
+				"app/View/Products/seller_add.ctp"
+			],
+			[
+				"products/admin_ed",
+				"app/View/Products/admin_edit.ctp"
+			],
+			[
+				"details/pr",
+				"app/View/Details/product.ctp"
+			],
+			[
+				"prev",
+				"app/View/Details/preview.ctp"
+			],
+			[
+				"appc",
+				"app/Controller/AppController.php"
+			],
+			[
+				"appco",
+				"app/Controller/AppController.php"
+			],
+			[
+				"fronte",
+				"app/Controller/FrontendsController.php"
+			],
+			[
+				"frontends/in",
+				"app/View/Frontends/index.ctp"
+			],
+			[
+				"gen",
+				"app/Controller/GeneratorController.php"
+			],
+			[
+				"forn",
+				"app/Controller/FrontendsController.php"
+			],
+			[
+				"front",
+				"app/Controller/FrontendsController.php"
+			],
+			[
+				"das",
+				"app/Controller/DashboardsController.php"
+			],
+			[
+				"boo",
+				"app/webroot/frontend/js/bootstrap.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/media/juliano/My file/Work/Diskominfo/my_note/All Note Diskominfo.sublime-project"
+			],
+			[
+				"care",
+				"~/WGS/Files/trikomsel/save project/care_is.sublime-project"
+			],
+			[
+				"tr",
+				"~/WGS/Files/trikomsel/save project/care_is.sublime-project"
+			],
+			[
+				"max",
+				"~/WGS/Project template sublm/maxuri.sublime-project"
+			],
+			[
+				"fam",
+				"~/WGS/Project template sublm/familycash.sublime-project"
+			],
+			[
+				"ks",
+				"~/WGS/Project template sublm/kshipper_ci.sublime-project"
+			],
+			[
+				"first",
+				"~/WGS/Project template sublm/firstcilearn.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

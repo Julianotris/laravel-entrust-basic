@@ -21,7 +21,7 @@
 
 
 /*Logo Header*/
-
+@media (min-width: 980px) and (max-width: 1920px) {
 #header h1 {
     background: url("../img/logo-bandung.png") no-repeat scroll 0 0 transparent;
     background-size: 50px 43px;
@@ -32,6 +32,21 @@
     position: absolute;
     top: 6px;
     width: 191px;
+}
+}
+
+@media (min-width: 100px) and (max-width: 979px) {
+#header h1 {
+    background: url("../img/logo-bandung.png") no-repeat scroll 0 0 transparent;
+    background-size: 35px 29px;
+    height: 48px;
+    left: 3px;
+    line-height: 600px;
+    overflow: hidden;
+    position: absolute;
+    top: -2px;
+    width: 129px;
+}
 }
 
 #header h4 {

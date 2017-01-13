@@ -4,7 +4,7 @@
 <title>@yield('title')</title>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="shortcut icon" type="image/x-icon" href="{{ URL::asset('metrix-template/img/logo.png')}}" />
+<link rel="shortcut icon" type="image/x-icon" href="{{ URL::asset('metrix-template/img/logo-bandung.png')}}" />
 <link rel="stylesheet" href={{ URL::asset('metrix-template/css/bootstrap.min.css')}} />
 <link rel="stylesheet" href={{ URL::asset('metrix-template/css/bootstrap-responsive.min.css')}} />
 <link rel="stylesheet" href={{ URL::asset('metrix-template/css/fullcalendar.css')}} />
@@ -22,7 +22,7 @@
 
 <!--Header-part-->
 <div id="header">
-  <h1>  <a href="dashboard.html">All Dashboard Apps</a></h1>
+  <h1>  <a href="dashboard.html">Sembako Online</a></h1>
   {{-- <h4>ALL DASHBOARD</h4> --}}
 </div>
 <!--close-Header-part-->
@@ -43,7 +43,7 @@
 <!--Footer-part-->
 
 <div class="row-fluid">
-  <div id="footer" class="span12"> All Dashboard Bandung Aplication</div>
+  <div id="footer" class="span12"> Sembako Online</div>
 </div>
 
 <!--end-Footer-part-->

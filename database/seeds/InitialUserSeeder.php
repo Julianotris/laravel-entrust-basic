@@ -21,27 +21,27 @@ class InitialUserSeeder extends Seeder
         # superadmin
         DB::table('users')->insert([
             'name' => 'Super Admin',
-            'email' => 'superadmin_alldashboard@mailinator.com',
+            'email' => 'supersembako@mailinator.com',
             'password' => bcrypt('123456'),
         ]);
 
         # admin
         DB::table('users')->insert([
             'name' => 'Admin1',
-            'email' => 'admin1_alldashboard@mailinator.com',
+            'email' => 'admin1sembako@mailinator.com',
             'password' => bcrypt('123456'),
         ]);
 
         DB::table('users')->insert([
             'name' => 'Admin2',
-            'email' => 'admin2_alldashboard@mailinator.com',
+            'email' => 'admin2sembako@mailinator.com',
             'password' => bcrypt('123456'),
         ]);
 
         # guest
         DB::table('users')->insert([
             'name' => 'Guest',
-            'email' => 'guest_alldashboard@mailinator.com',
+            'email' => 'guestsembako@mailinator.com',
             'password' => bcrypt('123456'),
         ]);
 
@@ -65,16 +65,16 @@ class InitialUserSeeder extends Seeder
         $guest->save();
 
         # attach role
-        $user_superadmin = User::where('email', '=', 'superadmin_alldashboard@mailinator.com')->first();
+        $user_superadmin = User::where('email', '=', 'supersembako@mailinator.com')->first();
         $user_superadmin->attachRole($superadmin);
 
-        $user_admin1 = User::where('email', '=', 'admin1_alldashboard@mailinator.com')->first();
+        $user_admin1 = User::where('email', '=', 'admin1sembako@mailinator.com')->first();
         $user_admin1->attachRole($admin);
 
-        $user_admin2 = User::where('email', '=', 'admin2_alldashboard@mailinator.com')->first();
+        $user_admin2 = User::where('email', '=', 'admin2sembako@mailinator.com')->first();
         $user_admin2->attachRole($admin);
 
-        $user_guest = User::where('email', '=', 'guest_alldashboard@mailinator.com')->first();
+        $user_guest = User::where('email', '=', 'guestsembako@mailinator.com')->first();
         $user_guest->attachRole($guest);
 
         # create permissions

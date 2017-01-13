@@ -28,7 +28,7 @@ class AuthController extends Controller
      *
      * @var string
      */
-    protected $redirectTo = '/dashboard/aplikasi-bandung';
+    protected $redirectTo = '/test-table';
 
     /**
      * Create a new authentication controller instance.

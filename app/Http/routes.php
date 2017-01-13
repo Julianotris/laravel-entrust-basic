@@ -22,7 +22,9 @@ Route::get('password/reset/{token?}', 'Auth\PasswordController@showResetForm');
 Route::post('password/email', 'Auth\PasswordController@sendResetLinkEmail');
 Route::post('password/reset', 'Auth\PasswordController@reset');
 
-Route::get('/home', 'HomeController@index');
+Route::get('/home', function(){
+    return view('example.main-template-table');
+});
 
 Route::group(['middleware' => ['auth']], function () {
 
@@ -36,7 +38,9 @@ Route::group(['middleware' => ['auth']], function () {
     });
 
 
-    Route::get('/', 'InventoryApp\AplikasiBdgController@getListApp');
+    Route::get('/', function(){
+        return view('example.main-template-table');
+    });
 
     # Registration Routes
     Route::get('register', 'Auth\AuthController@showRegistrationForm');
@@ -47,23 +51,6 @@ Route::group(['middleware' => ['auth']], function () {
         Route::get('/user-management', 'UsersController@index');
         Route::get('/datatable/userdata', 'UsersController@getData');
     });
-
-
-    # Inventory App
-    Route::get('/dashboard/aplikasi-bandung', 'InventoryApp\AplikasiBdgController@getListApp');
-        //---- datatable
-        Route::get('/datatable/aplikasi-bandung', 'InventoryApp\AplikasiBdgController@getAplikasiDatatable');
-        Route::get('/datatable/inventori-jenis-aplikasi', 'InventoryApp\AplikasiBdgController@getJenisDatatable');
-        Route::get('/datatable/inventori-status-aplikasi', 'InventoryApp\AplikasiBdgController@getStatusDatatable');
-        Route::get('/datatable/inventori-user-aplikasi', 'InventoryApp\AplikasiBdgController@getUserDatatable');
-        Route::get('/datatable/skpd-aplikasi', 'InventoryApp\AplikasiBdgController@getSkpdDatatable');
-
-    # Egratifikasi
-    Route::get('/dashboard/egratifikasi', 'Egratifikasi\LaporanController@getListLaporan');
-        //---- datatable
-        Route::get('/datatable/laporan-egratifikasi', 'Egratifikasi\LaporanController@getAplikasiDatatable');
-        Route::get('/datatable/count-status-laporan', 'Egratifikasi\LaporanController@getStatusDatatable');
-        Route::get('/datatable/count-jenis-laporan', 'Egratifikasi\LaporanController@getJenisDatatable');
 
 
     # route for test and dump after login
